@@ -1,0 +1,24 @@
+/* Navbar.module.css */
+.navbar {
+    @apply fixed top-0 left-0 w-full bg-gray-200 border-b border-gray-200 z-50;
+  }
+  
+  .menu {
+    @apply flex flex-col md:flex-row items-center justify-center w-full;
+  }
+  
+  .menuOpen {
+    @apply block;
+  }
+  
+  .toggleButton {
+    @apply md:hidden;
+  }
+  
+  .icon {
+    @apply text-black;
+  }
+  
+  .text-blue{
+    color: darkblue;
+  }
