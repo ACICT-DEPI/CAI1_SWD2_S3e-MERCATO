@@ -1,8 +1,19 @@
-# React + Vite
+# Mercato
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
+Mercato is an e-commerce platform built with React and styled using Tailwind CSS, covering all operations from browsing to payment and delivery.
 
-Currently, two official plugins are available:
+## Features
+- **User-Friendly Homepage:** Quick access to product categories and promotions.
+- **Product Pages:** Detailed information including images, descriptions, and reviews.
+- **Shopping Cart:** Easy review of selected products before checkout.
+- **Secure Checkout:** Multiple payment options for user convenience.
+- **Order Confirmation:** Clear summary of orders with expected delivery dates.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Installation Instructions
+
+To run this project locally, follow these steps:
+
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/Minaashraf22/Mercato.git
